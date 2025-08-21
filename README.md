@@ -17,16 +17,6 @@
 🔹 **[Portfolio Website](http://hossam.megasystems-eg.com)** – My personal portfolio built with React + TailwindCSS.  
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossamelfanaan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossamelfanaan&layout=compact&theme=radical)  
-
-</div>
-
----
-
 ## 🤝 Connect With Me  
 <div align="center">
 
